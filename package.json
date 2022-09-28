@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Horizon-srt/monorepo-todolist/issues"
   },
-  "homepage": "https://github.com/Horizon-srt/monorepo-todolist#readme"
+  "homepage": "https://github.com/Horizon-srt/monorepo-todolist#readme",
+  "dependencies": {
+    "typescript": "^4.8.4"
+  }
 }

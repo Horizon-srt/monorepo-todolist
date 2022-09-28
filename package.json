@@ -1,0 +1,19 @@
+{
+  "name": "monorepo-todolist",
+  "version": "1.0.0",
+  "description": "Todolist for practice.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Horizon-srt/monorepo-todolist.git"
+  },
+  "author": "Horizon-srt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Horizon-srt/monorepo-todolist/issues"
+  },
+  "homepage": "https://github.com/Horizon-srt/monorepo-todolist#readme"
+}
